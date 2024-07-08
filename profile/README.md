@@ -1,4 +1,4 @@
-<img src="./Logo.png" alt="drawing" width="300"/>
+<img src="./Logo.png" width="250"/>
 
 # Welcome to Bibimbap Project
 
