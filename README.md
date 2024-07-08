@@ -1,0 +1,2 @@
+# .github
+Welcome to Bibimbap! 🌯
